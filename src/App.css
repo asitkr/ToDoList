@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.Wrapper {
+  margin-bottom: 10px;
+}
+
+.Wrapper input {
+  width: 200px;
+  margin-right: 10px;
+}
+
+.List-wrapper {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #1c28da;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 1.5em;
+}
+
+.List-wrapper button {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
